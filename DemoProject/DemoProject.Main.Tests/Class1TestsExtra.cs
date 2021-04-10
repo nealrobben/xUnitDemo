@@ -2,6 +2,7 @@
 
 namespace DemoProject.Main.Tests
 {
+    [Collection("Collection2")]
     public class Class1TestsExtra
     {
         [Fact]
