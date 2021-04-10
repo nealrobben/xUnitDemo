@@ -13,5 +13,15 @@ namespace DemoProject.Main
         {
             Thread.Sleep(5000);
         }
+
+        public void ThirdTest()
+        {
+            Thread.Sleep(5000);
+        }
+
+        public void FourthTest()
+        {
+            Thread.Sleep(5000);
+        }
     }
 }
