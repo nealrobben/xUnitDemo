@@ -6,22 +6,22 @@ namespace DemoProject.Main
     {
         public void FirstTest()
         {
-            Thread.Sleep(5000);
+            Thread.Sleep(10000);
         }
 
         public void SecondTest()
         {
-            Thread.Sleep(5000);
+            Thread.Sleep(10000);
         }
 
         public void ThirdTest()
         {
-            Thread.Sleep(5000);
+            Thread.Sleep(10000);
         }
 
         public void FourthTest()
         {
-            Thread.Sleep(5000);
+            Thread.Sleep(10000);
         }
     }
 }
