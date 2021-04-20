@@ -4,22 +4,22 @@ namespace DemoProject.Main
 {
     public class Class1
     {
-        public void FirstTest()
+        public void MethodA()
         {
             Thread.Sleep(10000);
         }
 
-        public void SecondTest()
+        public void MethodB()
         {
             Thread.Sleep(10000);
         }
 
-        public void ThirdTest()
+        public void MethodC()
         {
             Thread.Sleep(10000);
         }
 
-        public void FourthTest()
+        public void MethodD()
         {
             Thread.Sleep(10000);
         }

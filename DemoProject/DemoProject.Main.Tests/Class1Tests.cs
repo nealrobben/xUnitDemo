@@ -6,17 +6,17 @@ namespace DemoProject.Main.Tests
     public class Class1Tests
     {
         [Fact]
-        public void TestOne()
+        public void TestA()
         {
             var sut = new Class1();
-            sut.FirstTest();
+            sut.MethodA();
         }
 
         [Fact]
-        public void TestTwo()
+        public void TestB()
         {
             var sut = new Class1();
-            sut.SecondTest();
+            sut.MethodB();
         }
     }
 }
